@@ -1,2 +1,2 @@
-# proyecto_network_science_transmilenio
-Identificación de cambios en los patrones de rutas en la red de Transmilenio antes y después del inicio de la construcción del metro.
+# Identificación de cambios en los patrones de rutas en la red de Transmilenio antes y después del inicio de la construcción del metro.
+Proyecto que tiene por objetivo analizar el impacto de la construcción del metro de Bogotá en los patrones de movilidad de la red de Transmilenio, mediante el uso de técnicas de análisis exploratorio y análisis de redes, con el fin de identificar cambios en el flujo de usuarios, creación o eliminación de trayectos, y variaciones en la relevancia de estaciones clave entre los años 2024 y 2025.
